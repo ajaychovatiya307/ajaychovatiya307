@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ajay Chovatiya</h1>
 <h3 align="center">Tech enthusiast on a mission to revolutionize the digital world. Currently pursuing my B.Tech in Information and Communication Technology at DAIICT. Join me on this journey of innovation and discovery! #TechWizard #DigitalRevolution</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+
+ <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently studying on **DAIICT**
 
@@ -16,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ajaykumarc62215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ajaykumarc62215" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ajay chovatiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajay chovatiya" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ajay-chovatiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajay-chovatiya" height="30" width="40" /></a>
 <a href="https://instagram.com/_mr_ajay__14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_mr_ajay__14" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/ajaychovatiya307" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ajaychovatiya307" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/h202201203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="h202201203" height="30" width="40" /></a>
