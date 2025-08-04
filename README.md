@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ajay Chovatiya</h1>
-<h3 align="center">Tech enthusiast on a mission to revolutionize the digital world. Currently pursuing my B.Tech in Information and Communication Technology at DAIICT. Join me on this journey of innovation and discovery! #TechWizard #DigitalRevolution</h3>
+<h3 align="center">Tech enthusiast on a mission to revolutionize the digital world. Currently pursuing my B.Tech in Information and Communication Technology at Dhirubhai Ambani University. Join me on this journey of innovation and discovery! #TechWizard #DigitalRevolution</h3>
 
 
  <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
